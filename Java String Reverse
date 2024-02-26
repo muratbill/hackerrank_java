@@ -1,0 +1,23 @@
+import java.io.*;
+import java.util.*;
+public class ReverseM {
+
+
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+
+        Scanner scan = new Scanner(System.in);
+        String Str = scan.next();
+        String Str1 = "";
+        for (int i = Str.length() - 1; i >= 0; i--) {
+            Str1 += Str.charAt(i);
+
+        }
+        if(Str.equals(Str1)){
+            System.out.println("Yes");
+        }else{
+            System.out.println("No");
+        }
+
+    }
+}
