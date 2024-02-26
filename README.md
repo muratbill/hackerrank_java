@@ -39,5 +39,21 @@ Explanation 0
 String  has the following lexicographically-ordered substrings of length :
 
 We then return the first (lexicographically smallest) substring and the last (lexicographically largest) substring as two newline-separated values (i.e., ava\nwel).
+********************************************************************************************************************************************************************
+Problem - Java String Reverse
+A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward.
+
+Given a string , print Yes if it is a palindrome, print No otherwise.
+
+Constraints
+
+ will consist at most  lower case english letters.
+Sample Input
+
+madam
+Sample Output
+Yes
+********************************************************************************************************************************************************************
+
 
 The stub code in the editor then prints ava as our first line of output and wel as our second line of output.
