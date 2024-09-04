@@ -22,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lYgOuejINb2eUTJcAA4MhlbdER" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array1D.executor": "Run",
     "Application.JavaBigIntExample.executor": "Run",
     "Application.Solution.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -41,7 +42,20 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.JavaBigIntExample">
+  <component name="RunManager" selected="Application.Array1D">
+    <configuration name="Array1D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java1DArray.Array1D" />
+      <module name="hackerrank2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java1DArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaBigIntExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBigInteger.JavaBigIntExample" />
       <module name="hackerrank2" />
@@ -70,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array1D" />
         <item itemvalue="Application.JavaBigIntExample" />
         <item itemvalue="Application.Solution" />
       </list>
@@ -99,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725364417139</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HackerRank solutions">
+      <option name="closed" value="true" />
+      <created>1725367223137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725367223137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
