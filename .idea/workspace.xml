@@ -36,6 +36,7 @@
     "Application.Array1D.executor": "Run",
     "Application.Array2D.executor": "Run",
     "Application.JavaBigIntExample.executor": "Run",
+    "Application.JavaInheritance2.Solution.executor": "Run",
     "Application.Solution.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -43,7 +44,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Array2D">
+  <component name="RunManager" selected="Application.JavaInheritance2.Solution">
     <configuration name="Array1D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java1DArray.Array1D" />
       <module name="hackerrank2" />
@@ -83,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaInheritance2.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInheritance2.Solution" />
+      <module name="hackerrank2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaInheritance2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaPrimalityTest.Solution" />
       <module name="hackerrank2" />
@@ -98,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaInheritance2.Solution" />
         <item itemvalue="Application.Array2D" />
         <item itemvalue="Application.Array1D" />
         <item itemvalue="Application.JavaBigIntExample" />
@@ -145,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725467648824</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HackerRank solutions">
+      <option name="closed" value="true" />
+      <created>1725908519812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725908519812</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
