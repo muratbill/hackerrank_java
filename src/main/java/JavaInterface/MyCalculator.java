@@ -7,14 +7,10 @@ class MyCalculator implements AdvancedArithmetic {
     int[] divisors = IntStream.rangeClosed(1,1000).toArray();
     @Override
     public int divisor_sum(int n) {
-        int sum = n;
-        if(n == 1) {
-            sum = 1;
-            return sum;
-        }
+        int sum = 0;
         for (int divisor : divisors) {
 
-            if (n % divisor == 0 & n != divisor) {
+            if (n % divisor == 0) {
                 sum += divisor;
             }
         }
