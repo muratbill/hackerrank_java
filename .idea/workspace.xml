@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,6 +36,7 @@
   "keyToString": {
     "Application.Array1D.executor": "Run",
     "Application.Array2D.executor": "Run",
+    "Application.InterfaceSolution.executor": "Run",
     "Application.JavaAbstractClass.Solution.executor": "Run",
     "Application.JavaBigIntExample.executor": "Run",
     "Application.JavaInheritance2.Solution.executor": "Run",
@@ -45,7 +47,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.JavaAbstractClass.Solution">
+  <component name="RunManager" selected="Application.InterfaceSolution">
     <configuration name="Array1D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java1DArray.Array1D" />
       <module name="hackerrank2" />
@@ -72,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaAbstractClass.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAbstractClass.Solution" />
+    <configuration name="InterfaceSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterface.InterfaceSolution" />
       <module name="hackerrank2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAbstractClass.*" />
+          <option name="PATTERN" value="JavaInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaBigIntExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBigInteger.JavaBigIntExample" />
+    <configuration name="JavaAbstractClass.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAbstractClass.Solution" />
       <module name="hackerrank2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaBigInteger.*" />
+          <option name="PATTERN" value="JavaAbstractClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceSolution" />
         <item itemvalue="Application.JavaAbstractClass.Solution" />
         <item itemvalue="Application.JavaInheritance2.Solution" />
         <item itemvalue="Application.Array2D" />
         <item itemvalue="Application.Array1D" />
-        <item itemvalue="Application.JavaBigIntExample" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726472632550</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HackerRank solutions">
+      <option name="closed" value="true" />
+      <created>1726475156678</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726475156678</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
