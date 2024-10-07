@@ -41,6 +41,7 @@
     "Application.JavaAbstractClass.Solution.executor": "Run",
     "Application.JavaBigIntExample.executor": "Run",
     "Application.JavaExceptionHandling.Solution.executor": "Run",
+    "Application.JavaExceptionHandling2.Solution.executor": "Run",
     "Application.JavaInheritance2.Solution.executor": "Run",
     "Application.MainOverride.executor": "Run",
     "Application.Solution.executor": "Run",
@@ -50,7 +51,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.JavaExceptionHandling.Solution">
+  <component name="RunManager" selected="Application.JavaExceptionHandling2.Solution">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaIterator.Example" />
       <module name="hackerrank2" />
@@ -64,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInterface.InterfaceSolution" />
+    <configuration name="JavaExceptionHandling2.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExceptionHandling2.Solution" />
       <module name="hackerrank2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaInterface.*" />
+          <option name="PATTERN" value="JavaExceptionHandling2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaExceptionHandling2.Solution" />
         <item itemvalue="Application.JavaExceptionHandling.Solution" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MainOverride" />
-        <item itemvalue="Application.InterfaceSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726729276121</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="HackerRank solutions">
+      <option name="closed" value="true" />
+      <created>1727629810730</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727629810730</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
